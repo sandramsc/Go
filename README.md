@@ -5,7 +5,7 @@
   <img src="./assets/golang.png" width="180" height="100" alt="golang"/>
 </div>
 
-## Application Description
+## Description
 
 This repository contains programs written for the purpose of gaining knowledge and practical skills in the Go programming language.
 
